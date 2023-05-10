@@ -1,5 +1,3 @@
-# Libary
-
-JavaFX <br />
-Ikonli Icon Pack
+# JavaFX Music Player 
+GUI create with JavaFX <br>
 
